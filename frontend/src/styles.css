@@ -1,0 +1,5 @@
+body { font-family: Tahoma, sans-serif; background: #f5f5f5; margin: 0; padding: 0; }
+.container { max-width: 600px; margin: 50px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px #ccc; }
+input, select { width: 100%; margin: 5px 0 15px 0; padding: 8px; border-radius: 5px; border: 1px solid #ccc; }
+button { padding: 10px 20px; border: none; border-radius: 5px; background: #0077ff; color: white; cursor: pointer; }
+button:hover { background: #005fcc; }
